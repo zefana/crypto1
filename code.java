@@ -21,7 +21,7 @@ class GFG {
 
 		// Variable holding the largest number
 		int largest;
-		a = 5;
+		a = 3;
 		b = 15;
 		c = 4;
 		// Calling the above function in main
