@@ -22,7 +22,7 @@ class GFG {
 		// Variable holding the largest number
 		int largest;
 		a = 5;
-		b = 11;
+		b = 15;
 		c = 4;
 		// Calling the above function in main
 		largest = biggestOfThree(a, b, c);
